@@ -243,7 +243,7 @@ void autoresize::num9_btn(){
 }
 void autoresize::num0_btn() {
     if (currentNum != "0") {
-        Displaydigit("0")}
+        Displaydigit("0");}
 }
 // C button
 void autoresize::C_btn(){

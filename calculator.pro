@@ -1,3 +1,4 @@
-QT += widgets
-SOURCES += main.cpp
-TARGET = myapp
+   QT += widgets
+   SOURCES += main.cpp autoresize.cpp
+   HEADERS += autoresize.h
+   TARGET = myapp
